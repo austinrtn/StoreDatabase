@@ -1,0 +1,7 @@
+input[type=number]{
+width: 80px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
